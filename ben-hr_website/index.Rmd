@@ -1,0 +1,44 @@
+---
+title: "Benjamín Hernández Rodríguez"
+image: "ben.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/bhernand"
+  - label: Twitter
+    url: "https://twitter.com/bhernanr"
+  - label: GitHub
+    url: "https://github.com/ben-hr"
+  - label: ORCiD
+    url: "https://orcid.org/0000-0002-5118-8715"
+  - label: Google Scholar
+    url: "https://scholar.google.de/citations?user=o7zoz10AAAAJ"
+  - label: Email
+    url: "mailto:bhernanr@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Hi, I’m Benjamín! I’m a postdoctoral fellow in the <a href="http://www.vaquerizaslab.org/people/#Benjamin
+">Regulatory Genomics</a> group at the <a href="https://www.mpi-muenster.mpg.de/">Max Planck Institute for Molecular Biomedicine</a> in Münster, Germany. My research is focused on understanding the role that 3D organisation of chromatin plays in regulating gene expression. I use R and Python to analyse genomic datasets to make comparative analyses of 3D genome organisation. My primary model organism is the zebrafish, but I frequently collaborate with researchers working on other organisms, including mouse and human.
+
+## Education
+
+**Max Planck Institute for Molecular Biomedicine** | Münster, Germany
+
+Ph.D. in Biology | 2023
+
+**National Autonomous University of Mexico** | Cuernavaca, Mexico
+
+B.S. in Genomic Sciences | 2015
+
+## Interests
+
+Gene regulation
+
+3D genome organisation
+
+Evolution
+
+Data analysis
