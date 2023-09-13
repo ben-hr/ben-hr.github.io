@@ -1,17 +1,17 @@
 ---
-title: "Benjamín Hernández Rodríguez"
+title: "Benjamín Hernández-Rodríguez"
 image: "ben.jpg"
 links:
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/bhernand"
-  - label: Twitter
-    url: "https://twitter.com/bhernanr"
-  - label: GitHub
-    url: "https://github.com/ben-hr"
   - label: ORCiD
     url: "https://orcid.org/0000-0002-5118-8715"
+  - label: GitHub
+    url: "https://github.com/ben-hr"
   - label: Google Scholar
     url: "https://scholar.google.de/citations?user=o7zoz10AAAAJ"
+  - label: Twitter
+    url: "https://twitter.com/bhernanr"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/bhernand"
   - label: Email
     url: "mailto:bhernanr@gmail.com"
 output:
@@ -20,8 +20,7 @@ output:
  
 ## Bio
 
-Hi, I’m Benjamín! I’m a postdoctoral fellow in the <a href="http://www.vaquerizaslab.org/people/#Benjamin
-">Regulatory Genomics</a> group at the <a href="https://www.mpi-muenster.mpg.de/">Max Planck Institute for Molecular Biomedicine</a> in Münster, Germany. My research is focused on understanding the role that 3D organisation of chromatin plays in regulating gene expression. I use R and Python to analyse genomic datasets to make comparative analyses of 3D genome organisation. My primary model organism is the zebrafish, but I frequently collaborate with researchers working on other organisms, including mouse and human.
+Hi, I’m Ben! I’m a postdoctoral fellow in the [Regulatory Genomics](http://www.vaquerizaslab.org/people/#Benjamin) group at the [Max Planck Institute for Molecular Biomedicine](https://www.mpi-muenster.mpg.de/) in Münster, Germany. My research is focused on understanding the role that 3D organisation of chromatin plays in regulating gene expression. I use R and Python to analyse genomic datasets to make comparative analyses of 3D genome organisation. My primary model organism is the zebrafish, but I frequently collaborate with researchers working on other organisms, including mouse and human.
 
 ## Education
 
@@ -35,10 +34,18 @@ B.S. in Genomic Sciences | 2015
 
 ## Interests
 
-Gene regulation
+Gene regulation; 3D genome organisation; Evolution; Data analysis
 
-3D genome organisation
+## Research Experience
 
-Evolution
+Max Planck Institute for Molecular Biomedicine | Postdoctoral fellow | June 2023 - Present
 
-Data analysis
+Max Planck Institute for Molecular Biomedicine | PhD student | October 2015 - June 2023
+
+Max Planck Institute for Molecular Biomedicine | Undergraduate researcher | September 2014 - May 2015
+
+Stowers Institute for Medical Research | Summer scholar | June 2014 - August 2014
+
+Instituto de Biotecnologia, UNAM | Undergraduate laboratory researcher | September 2012 - May 2014
+
+iGEM UNAM Genomics 2012 | Team member | October 2011 - May 2013
