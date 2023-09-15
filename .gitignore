@@ -76,3 +76,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Do not track commitlint configuration
+commitlint.config.js
+commitlint.config.js

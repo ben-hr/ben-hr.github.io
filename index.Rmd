@@ -4,12 +4,12 @@ image: "ben.jpg"
 links:
   - label: ORCiD
     url: "https://orcid.org/0000-0002-5118-8715"
-  - label: GitHub
-    url: "https://github.com/ben-hr"
   - label: Google Scholar
     url: "https://scholar.google.de/citations?user=o7zoz10AAAAJ"
   - label: Twitter
     url: "https://twitter.com/bhernanr"
+  - label: GitHub
+    url: "https://github.com/ben-hr"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/bhernand"
   - label: Email
