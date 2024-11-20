@@ -8,6 +8,8 @@ links:
     url: "https://scholar.google.de/citations?user=o7zoz10AAAAJ"
   - label: Twitter
     url: "https://twitter.com/bhernanr"
+  - label: Bluesky
+    url: "https://bsky.app/profile/bhernanr.bsky.social"
   - label: GitHub
     url: "https://github.com/ben-hr"
   - label: LinkedIn
@@ -20,7 +22,7 @@ output:
  
 ## Bio
 
-Hi, I’m Ben! I’m a postdoctoral fellow in the [Regulatory Genomics](http://www.vaquerizaslab.org/people/#Benjamin) group at the [Max Planck Institute for Molecular Biomedicine](https://www.mpi-muenster.mpg.de/) in Münster, Germany. My research is focused on understanding the role that 3D organisation of chromatin plays in regulating gene expression. I use R and Python to analyse genomic datasets to make comparative analyses of 3D genome organisation. My primary model organism is the zebrafish, but I frequently collaborate with researchers working on other organisms, including mouse and human.
+Hi, I’m Ben! I’m a computational biologist based in Melbourne, Australia.  My research is focused on understanding the role that 3D organisation of chromatin plays in regulating gene expression. I use R and Python to analyse genomic datasets to make comparative analyses of 3D genome organisation. My primary model organism is the zebrafish, but I frequently collaborate with researchers working on other organisms, including mouse and human.
 
 ## Education
 
@@ -38,7 +40,7 @@ Gene regulation; 3D genome organisation; Evolution; Data analysis
 
 ## Research Experience
 
-Max Planck Institute for Molecular Biomedicine | Postdoctoral fellow | June 2023 - Present
+Max Planck Institute for Molecular Biomedicine | Postdoctoral fellow | June 2023 - December 2023
 
 Max Planck Institute for Molecular Biomedicine | PhD student | October 2015 - June 2023
 
