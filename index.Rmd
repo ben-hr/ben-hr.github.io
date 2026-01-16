@@ -6,8 +6,6 @@ links:
     url: "https://orcid.org/0000-0002-5118-8715"
   - label: Google Scholar
     url: "https://scholar.google.de/citations?user=o7zoz10AAAAJ"
-  - label: Twitter
-    url: "https://twitter.com/bhernanr"
   - label: Bluesky
     url: "https://bsky.app/profile/bhernanr.bsky.social"
   - label: GitHub
@@ -22,7 +20,7 @@ output:
  
 ## Bio
 
-Hi, I’m Ben! I’m a computational biologist based in Melbourne, Australia.  My research is focused on understanding the role that 3D organisation of chromatin plays in regulating gene expression. I use R and Python to analyse genomic datasets to make comparative analyses of 3D genome organisation. My primary model organism is the zebrafish, but I frequently collaborate with researchers working on other organisms, including mouse and human.
+Hi, I’m Ben! I’m a postdoctoral researcher at the Peter MacCallum Cancer Centre in Melbourne, Australia.  My research is focused on understanding epigenetic plasticity in cancer models. I work on the integration of multi-omics data from patients and cell lines, using state-of-the-art bioinformatic methods in R and Python.
 
 ## Education
 
@@ -36,9 +34,11 @@ B.S. in Genomic Sciences | 2015
 
 ## Interests
 
-Gene regulation; 3D genome organisation; Evolution; Data analysis
+Gene regulation; Bivalent Chromatin; Epigenetics; Plasticity; 3D genome organisation; Evolution; Data analysis
 
 ## Research Experience
+
+Peter MacCallum Cancer Centre | Postdoctoral researcher | March 2025 - Now
 
 Max Planck Institute for Molecular Biomedicine | Postdoctoral fellow | June 2023 - December 2023
 
